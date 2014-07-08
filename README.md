@@ -1,7 +1,5 @@
 ex
 ==
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Pebble2014/ex.git
-git push -u origin master
+"Classic" Digital Watch Pebble App
+https://github.com/pebble/pebble-sdk-examples
+https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/classio
