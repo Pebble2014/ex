@@ -1,0 +1,18 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Classio Corp.",
+    "longName": "Classio Digital",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Classio Digital",
+    "uuid": "54d3008f-0e46-462c-995c-0d0b4e01148c",
+    "versionCode": 2,
+    "versionLabel": "2.0.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
